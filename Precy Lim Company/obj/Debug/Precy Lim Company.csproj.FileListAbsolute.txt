@@ -1,0 +1,11 @@
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\bin\Debug\Precy Lim Company.exe.config
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\bin\Debug\Precy Lim Company.exe
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\bin\Debug\Precy Lim Company.pdb
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\obj\Debug\Precy Lim Company.csproj.AssemblyReference.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\obj\Debug\Precy Lim Company.csproj.SuggestedBindingRedirects.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\obj\Debug\Precy_Lim_Company.Form1.resources
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\obj\Debug\Precy_Lim_Company.Properties.Resources.resources
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\obj\Debug\Precy Lim Company.csproj.GenerateResource.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\obj\Debug\Precy Lim Company.csproj.CoreCompileInputs.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\obj\Debug\Precy Lim Company.exe
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Precy Lim Company\Precy Lim Company\obj\Debug\Precy Lim Company.pdb
